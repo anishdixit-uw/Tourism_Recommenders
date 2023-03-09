@@ -13,5 +13,5 @@ A portal that displays set of recommendations based on user inputs, interests an
 ## The Data Sources
 * Place Details API - https://developers.google.com/maps/documentation/places/web-service/details
   - The Place Details request takes in a place_id as parameter (returned from the Place Search API) and returns a response with fields such as: opening_hours, reviews, price_levels, rating, serves_vegetarian_food among others.
-* Weather API - https://openweathermap.org/api
-  - The Open Weather API call returns current weather data for any location.  
+* Meteostat Weather API - https://dev.meteostat.net/python/
+  - The Meteostat Weather API call returns current and historical weather data for any location.  
